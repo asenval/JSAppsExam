@@ -1,0 +1,5 @@
+D:\Telerik kurs\java script applications\13.Exam\BattleGame\BattleGameClient\bin\BattleGameClient.dll
+D:\Telerik kurs\java script applications\13.Exam\BattleGame\BattleGameClient\bin\BattleGameClient.pdb
+D:\Telerik kurs\java script applications\13.Exam\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.csprojResolveAssemblyReference.cache
+D:\Telerik kurs\java script applications\13.Exam\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.dll
+D:\Telerik kurs\java script applications\13.Exam\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.pdb
